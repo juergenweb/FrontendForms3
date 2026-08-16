@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/FrontendForms\/Formelements\/Inputelements\/Inputs\/InputFile.php",
+    "textdomain": "site--modules--frontendforms--formelements--inputelements--inputs--inputfile-php",
+    "translations": {
+        "c4265549c1f4d79aea1e279149a6a084": {
+            "text": "Datei Upload"
+        },
+        "1afe200fa26ba361f59b603b22ad6392": {
+            "text": "W\u00e4hlen Sie die Dateien aus"
+        },
+        "96b0141273eabab320119c467cdcaf17": {
+            "text": "Gesamt"
+        }
+    }
+}
