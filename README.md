@@ -1,0 +1,1 @@
+This is the new version of the FrontendForms module which could be downloaded for testing purposes. This branch should be added to the default FrontendForms module after it has bee tested sucessfully.
