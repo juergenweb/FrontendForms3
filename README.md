@@ -6,7 +6,7 @@ To test this version, please follow these steps:
 
 1. Download the ZIP file from GitHub and unzip it on your computer.
 2. Rename the unzipped folder from FrontendForms3_main to FrontendForms.
-3.Copy the folder to your site folder and click the module refresh button. If you have the default version of FrontendForms installed, the migration script should run, update all files to the latest version, and remove all orphaned files from the old version.
+3. Copy the folder to your site folder and click the module refresh button. If you have the default version of FrontendForms installed, the migration script should run, update all files to the latest version, and remove all orphaned files from the old version.
 4. Start trying out and testing the new module version.
 5. Report any bugs or issues directly here on GitHub.
 
